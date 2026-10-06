@@ -16,17 +16,24 @@ used to manage student attendance.
 - JavaScript
 
 ## Installation
-1. Download the project.
-2. Open the project folder.
-3. Open index.html in a browser.
+1. Download or clone the project from GitHub.
+2. Open the project folder in VS Code.
+3. Make sure all required files are present.
+4. Open `index.html` in a web browser.
 
 ## Usage
-1. Login to the system.
-2. Select the class.
-3. Mark attendance.
-4. Generate the report.
+
+1. Open the Student Attendance Management System.
+2. Enter the student's name.
+3. Click **Add Student**.
+4. Click **Present** or **Absent** to mark attendance.
+5. View the attendance summary.
 
 ## Future Enhancements
-- Mobile application
-- Cloud database
 
+- Add student login and authentication
+- Store attendance data in a database
+- Generate attendance reports
+- Add attendance percentage calculation
+- Develop a mobile application
+- Add cloud database support
